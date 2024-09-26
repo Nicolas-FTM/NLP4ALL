@@ -11,7 +11,7 @@ This project aims to develop a comprehensive NLP toolkit using Python. It will i
   - Tokenization, stemming, and lemmatization
   - Part-of-speech tagging
   - Named Entity Recognition (NER)
-  - Sentiment analysis
+  - Sentiment analysis 
   - Machine translation
 * NLP techniques and models
   - Rule-based vs. statistical approaches
