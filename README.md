@@ -4,7 +4,8 @@ This project aims to develop a comprehensive NLP toolkit using Python. It will i
 ### First Notebook - NLP Theory
 
 * Brief introduction from AI to NLP
-* What is NLP? What are NLU and NLG?
+* What is NLP? Components and Projects
+* What are NLU and NLG?
 * Which is the difference between ASR and NLP?
 * Differences between NLP, LLM, and Generative AI
 * Core NLP tasks and applications
